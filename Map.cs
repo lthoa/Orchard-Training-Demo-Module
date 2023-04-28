@@ -1,4 +1,4 @@
-using Lombiq.TrainingDemo.Activities;
+﻿using Lombiq.TrainingDemo.Activities;
 using Lombiq.TrainingDemo.Controllers;
 using Lombiq.TrainingDemo.Drivers;
 using Lombiq.TrainingDemo.Events;
@@ -25,6 +25,14 @@ using System.Diagnostics.CodeAnalysis;
  *
  * This class is not doing anything and only serves as an easy to use table of contents.
  */
+
+/*
+  * Trong tệp này, bạn sẽ tìm thấy chỉ mục của toàn bộ (hoặc ít nhất là hầu hết) các lớp của mô-đun để điều hướng dễ dàng hơn
+  * giữa các chủ đề. Bạn có thể điều hướng trực tiếp đến các lớp và phương thức của chúng bằng cách nhấp vào tên của chúng (đính kèm trong
+  * Pointer<T>() ) và nhấn F12.
+  *
+  * Lớp này không làm gì cả và chỉ phục vụ như một mục lục dễ sử dụng.
+  */
 
 namespace Lombiq.TrainingDemo;
 
